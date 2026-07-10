@@ -17,7 +17,7 @@ This causes the interest rates in the proceeding functions to update incorrectly
 Until there's a new interest update, the borrowers pay less interest causing the suppliers to earn less. 
 
 Note: 
-RAY - a number that uses 27 decimal places (1 x 10 to the power 27), used in precise calculations
+RAY - a number that uses 27 decimal places (1 x 10 to the power 27), used in precise calculations.
 Debt token - numbers that use 6-8 decimal places (1 x 10 the power 6 to 1 x 10 to the power 8).
 
 Severity Justification: The risk is high because it affects the borrowers who buy with low interest and the supplier earns less. 
