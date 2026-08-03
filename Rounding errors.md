@@ -4,7 +4,7 @@ Finding: Rounding errors cause unfair cost distributions
 
 Source: Solodit
 
-Reference Link: https://docs.google.com/document/d/1oUyBnu0ulIcchoqf4V5_4qOxKYtO1MZoEtJjqVhxzVg/edit?tab=t.0 
+Reference Link: https://solodit.cyfrin.io/issues/rounding-error-accumulation-in-partial-order-fills-leads-to-unfair-cost-distribution-cyfrin-none-deriverse-dex-markdown 
 
 Severity: Medium
 
